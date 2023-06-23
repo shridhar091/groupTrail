@@ -3,3 +3,5 @@ const trail = () =>{
 
     console.log("vithhal")
 }
+
+export default trail
